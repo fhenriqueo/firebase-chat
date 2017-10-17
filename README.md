@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
 
 ## How to use this template
@@ -24,3 +25,6 @@ $ ionic cordova run ios
 
 Substitute ios for android if not on a Mac.
 
+=======
+# firebase-chat
+>>>>>>> 86268e10ef32ffbcdc3982dbe62c6b1a7863c7c9
